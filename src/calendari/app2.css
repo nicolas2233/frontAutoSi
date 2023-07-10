@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+div{
+    margin:0px;
+}
+.h-screen{
+        height:90vh;
+}
+.grid-cols-7 {
+    grid-template-columns: repeat(7, minmax(120px, 1fr)) !important;
+}
+.sc-ewvfhA{
+    overflow-x: auto !important;
+}
+.h-screen{
+    z-index:555;
+}

@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+.containerEvent{
+    border-radius: 15px;
+   
+    }
+.containerEvent form{
+    width: 500px !important;
+   
+}
+@media all and (max-width:700px){
+    .containerEvent form{
+        width: 300px !important;
+      
+    } 
+    .containHora{
+        flex-direction: column;
+        align-items: stretch !important;
+    }
+}
+.containHora{
+    width: 90%;
+    margin:20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.pal{
+    font-family: 'Roboto',sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.containNota{
+    display: flex;
+    flex-direction: column;
+    padding: 10px 20px;
+}
+.containNota input{
+    border-radius: 8px;
+    border-color: #FF7528;
+}
+.textoNota{
+    font-family: 'Roboto',sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    color: #606060;
+    padding: 10px 20px;
+}
+
+.containNota label{
+    margin:0px;
+}
+.containHora select{
+    border-radius: 8px;
+    border-color: #FF7528;
+    outline: #FF7528;
+}
+.containHora select:focus{
+    border-color: #FF7528;
+}
+.containHora span{
+    margin-right: 10px;
+    color:#FF7528;
+}
+.containHora div{
+    display: flex;
+    align-items: center;
+}
+.containerHeader{
+    border-radius: 14px 14px 0px 0px;
+    display: flex;
+    justify-content: space-between;
+}
+.dale{
+    font-family: 'Roboto',sans-serif;
+    color: #FF7528;
+    font-size: 30px;
+    margin:0px;
+}
+.buttonCrear{
+    background-color: #FF7528 !important;
+    border-radius: 8px;    
+    height: 46px !important;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+}
+.buttonCrear:hover{
+    background-color: #0D8DF2 !important;
+}
+
+.eventSelect{
+    padding: 0px 20px;
+}
