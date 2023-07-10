@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e528b899.css",
+    "main.js": "/static/js/main.842dfa11.js",
+    "static/media/loading.gif": "/static/media/loading.17d497953ed50415b324.gif",
+    "static/media/car.jpg": "/static/media/car.8e2c00b02e0c77b7fb1e.jpg",
+    "static/media/download.png": "/static/media/download.c19bd237f20c6952714b.png",
+    "static/media/logoLogin.svg": "/static/media/logoLogin.00d466258674994c909c480d8a0670c5.svg",
+    "static/media/logo.svg": "/static/media/logo.fba54cd88cc4f8d800c08b5b188a243e.svg",
+    "static/media/dontViewPassword.svg": "/static/media/dontViewPassword.dfd4af7b4bb1976e95ed09859d9ce8ff.svg",
+    "static/media/viewPassword.svg": "/static/media/viewPassword.e4c905ab7699670ff680fdbca374ed98.svg",
+    "index.html": "/index.html",
+    "static/media/team.svg": "/static/media/team.26f8821e21570cd0a7443a31ac8441ff.svg",
+    "static/media/search.svg": "/static/media/search.cd113a887af04a2c4fba703b8a8e9236.svg",
+    "static/media/puntos.svg": "/static/media/puntos.5bf13b56e12e8d6feeb80c76fb2dddca.svg",
+    "static/media/remove.svg": "/static/media/remove.a50713650744e84522d4215b4e61633b.svg",
+    "static/media/check.svg": "/static/media/check.c7de61ff6c4d659e30177024dc293380.svg",
+    "static/media/mayor.svg": "/static/media/mayor.22ac914c0c49be45eebf8019c73ad3fc.svg",
+    "static/media/Union.svg": "/static/media/Union.2c119b4680c10220754bc13238c7deb4.svg",
+    "static/media/menor.svg": "/static/media/menor.056b324726f68f3e6b8cabd381bc49af.svg",
+    "main.e528b899.css.map": "/static/css/main.e528b899.css.map",
+    "main.842dfa11.js.map": "/static/js/main.842dfa11.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e528b899.css",
+    "static/js/main.842dfa11.js"
+  ]
+}
